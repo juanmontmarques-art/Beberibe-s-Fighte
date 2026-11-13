@@ -1,0 +1,7 @@
+{
+  "appId": "com.beberibe.fighters",
+  "appName": "Beberibe's Fighters",
+  "webDir": "www",
+  "backgroundColor": "#050820",
+  "android": { "allowMixedContent": true }
+}

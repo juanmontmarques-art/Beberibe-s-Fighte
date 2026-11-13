@@ -1,0 +1,9 @@
+Beberibe's Fighters - projeto Android (Capacitor), tela cheia + horizontal.
+
+OPCAO A (mais facil, sem instalar nada): GitHub Actions
+ 1. Crie um repositorio no GitHub e envie TODO o conteudo desta pasta (inclusive .github).
+ 2. Aba Actions > "Build APK" > aguarde (~5 min).
+ 3. Baixe o artefato "Beberibes-Fighters-APK" (zip com o .apk).
+ 4. No celular: permita "instalar apps desconhecidos" e abra o .apk.
+
+OPCAO B (local): instale Node 20, JDK 17 e Android SDK; rode ./build.sh
